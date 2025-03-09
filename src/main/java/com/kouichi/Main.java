@@ -75,6 +75,7 @@ public class Main {
           System.out.print("\r\nプログラムを終了します。");
           break;
       }
+      scanner.close();
     }
   }
 }
